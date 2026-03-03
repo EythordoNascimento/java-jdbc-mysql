@@ -1,6 +1,6 @@
 # Estudos JDBC com MySQL e Eclipse
 
-Este repositório contém meus estudos e práticas de **JDBC (Java Database Connectivity)** utilizando o banco de dados **MySQL** e a IDE **Eclipse**.  
+Este repositório contém meus estudos e práticas de **JDBC (Java Database Connectivity)** utilizando o banco de dados **MySQL** e a IDE **Eclipse**
 O objetivo é consolidar conceitos de acesso a banco de dados em Java, aplicando boas práticas como o padrão DAO.
 
 ---
